@@ -1,0 +1,16 @@
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# Java
+*.class
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
